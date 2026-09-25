@@ -20,9 +20,10 @@ st.set_page_config(
 GROUP_NUMBER = "Group No. 01"
 
 MEMBERS = [
-    "Member 1 - Your Name - Enrollment No.",
-    "Member 2 - Member Name - Enrollment No.",
-    "Member 3 - Member Name - Enrollment No."
+    "Member 1 - "Dev Manan Mehta - 25012250610001.",
+    "Member 2 - "Parmar Yavishtsinh Pinakin-25012250610006"
+    "Member 3 - "Devam KokilBhai Dave-25012250610005",
+    "Member 4 - "Laklhani Fenil Nileshbhai-25012250610012",
 ]
 
 # =========================================================
